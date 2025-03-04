@@ -1,4 +1,3 @@
-Claro, puedo cambiar los íconos en cada título para que se ajusten a tu perfil. Aquí está la versión actualizada con los íconos de cada título modificados:
 
 ---
 
