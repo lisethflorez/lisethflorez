@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <i>¡Disfruta viendo cómo el león crece mientras tus contribuciones aumentan!</i>
+  <i>¡Disfruta viendo cómo la extrella crece mientras tus contribuciones aumentan!</i>
 </p>
 
 ---
