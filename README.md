@@ -31,7 +31,7 @@
 
 ---
 
-##🌟 A Lion Eating my Contributions Graph
+##🌟A star eats my contribution chart
 
 <p align="center">
   <!-- Reemplaza esta URL por la del gráfico de león generado -->
